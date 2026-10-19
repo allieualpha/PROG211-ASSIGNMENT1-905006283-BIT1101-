@@ -28,15 +28,6 @@ No packages or imports are needed.
 - **Privacy:** all names and marks in the example are fictional; the program makes no network calls and stores no real sensitive data.
 - **Modular and reusable:** separate classes for learner data and portal management.
 
-## Example output
-See `sample_output.txt` for the result of running `python main.py`.
-
 ## Limitations
 Data is stored in memory and resets when the program ends. This is a demonstration, not a production student records system.
 
-## Submission checklist
-1. Create a GitHub repository and upload `main.py`, `README.md` and `sample_output.txt`.
-2. Add your lecturer as a collaborator using the GitHub account they provide.
-3. Run the code and take genuine screenshots showing the program and output.
-4. Print your documentation using Tahoma 10, 1.15 line spacing and justified paragraphs, as requested by the brief.
-5. Add your own name, student ID and class details to your printed submission.
